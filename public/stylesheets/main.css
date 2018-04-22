@@ -1,0 +1,25 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.delete_form {
+    display: inline;
+}
+
+#login_register_h1 {
+    text-align: center;
+}
+
+#login_register_div_box {
+    width: 30%; 
+    margin: 25px auto;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
